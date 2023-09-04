@@ -1,6 +1,1 @@
-"use strict"; // treat all js code as newer version.
-
-// alert("hello");   // we are using node js not browser.
-
-console.log(tyesof "hello"); 
-console.log(tyesof null);  
+console.log("jea");
