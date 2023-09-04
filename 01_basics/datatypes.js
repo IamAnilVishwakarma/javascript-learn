@@ -2,5 +2,5 @@
 
 // alert("hello");   // we are using node js not browser.
 
-console.log(tyesof undefind) // undefind 
-console.log(tyesof null)   // object
+ console.log(tyesof "hello") // undefind 
+console.log(tyesof null);   // object
